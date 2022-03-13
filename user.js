@@ -4,7 +4,14 @@ setTimeout(() => {
 }, 300);
 
 const validateUser = () => {
-//.....
+    //.....
 
-///... fn
+    ///... fn
+}
+
+
+const addCreatedAtDateUser = () => {
+    //.....
+
+    ///... fn
 }
