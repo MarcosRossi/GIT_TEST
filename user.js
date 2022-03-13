@@ -15,3 +15,9 @@ const addCreatedAtDateUser = () => {
 
     ///... fn
 }
+
+const addAddressUser = () => {
+    //.....
+
+    ///... fn
+}
