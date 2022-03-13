@@ -3,6 +3,9 @@ const saludar = () => {
 }
 
 function validation() {
+    if(1==1){
+        return false;
+    }
     return true;
 }
 
